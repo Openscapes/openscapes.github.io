@@ -1,2 +1,2 @@
-# openscapes.github.io
-redirects you to openscapes.org
+
+Hello! Please visit **[openscapes.org](https://openscapes.org)**.
